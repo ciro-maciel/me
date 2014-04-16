@@ -1,0 +1,30 @@
+html,
+body {
+    font-size: 15px;
+    height: 99%;
+/*    width: 99%;*/
+    box-sizing: border-box;
+    
+}
+body {
+    font-family: 'lucida sans', 'lucida grande', tahoma, arial, sans-serif;
+/*    font-family: "Open Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;*/
+    background: #FFFFFF;
+    margin: 13px 0 0 0;
+/*    padding: 0px;*/
+    color: #555555;
+    text-rendering: optimizeLegibility;
+}
+
+
+
+
+
+
+
+.ui .items .item{
+    width: 18.5%;
+}
+.ui.items > .row > .item, .ui.items > .item {
+    min-height: 170px;
+}
